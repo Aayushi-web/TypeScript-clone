@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main-Container{
+    display: flex;
+   
+    background: #000;
+}
+.nav-container{
+    background-color: yellow;
+    margin-left: 7%;
+}
+.left-nav-bar{
+    background-color: green;
+    margin-left: auto;
+}
